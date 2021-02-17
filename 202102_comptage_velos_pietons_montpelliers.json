@@ -1,4 +1,3 @@
- 
 {"intensity":524,"laneId":121403593,"dateObserved":"2020-12-17T00:00:00/2020-12-18T00:00:00","location":{"coordinates":[3.896939992904663,43.60969924926758],"type":"Point"},"id":"MMM_EcoCompt_X2H19070220_202012170000","type":"TrafficFlowObserved","vehicleType":"bicycle","reversedLane":false}
 {"intensity":610,"laneId":121403593,"dateObserved":"2020-12-18T00:00:00/2020-12-19T00:00:00","location":{"coordinates":[3.896939992904663,43.60969924926758],"type":"Point"},"id":"MMM_EcoCompt_X2H19070220_202012180000","type":"TrafficFlowObserved","vehicleType":"bicycle","reversedLane":false} 
 {"intensity":610,"laneId":121403593,"dateObserved":"2020-12-18T00:00:00/2020-12-19T00:00:00","location":{"coordinates":[3.896939992904663,43.60969924926758],"type":"Point"},"id":"MMM_EcoCompt_X2H19070220_202012180000","type":"TrafficFlowObserved","vehicleType":"bicycle","reversedLane":false} 
